@@ -43,7 +43,7 @@ x-enrichment:
   pass: local-v1
 tags:
 - Company
-- Ai Infrastructure
+- AI Infrastructure
 tags_raw:
 - Company
 - Ai Infrastructure
